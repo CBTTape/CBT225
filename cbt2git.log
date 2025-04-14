@@ -1,4 +1,4 @@
-2025-04-13 17:40:55.680048 - Received CBT.V508.FILE225.PDS from FILE225.XMI 
-2025-04-13 17:40:55.680583 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE225.PDS, moved to PDS/$$$#DATE
-2025-04-13 17:40:55.680641 - Found @FILE225.txt (text/plain) in CBT.V508.FILE225.PDS, moved to PDS/@FILE225
-2025-04-13 17:40:55.680751 - Found OFFLOAD.bin (application/octet-stream) in CBT.V508.FILE225.PDS, moved to PDS/OFFLOAD
+2025-04-15 00:41:55.255558 - Received CBT.V508.FILE225.PDS from FILE225.XMI 
+2025-04-15 00:41:55.257076 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE225.PDS, moved to PDS/$$$#DATE
+2025-04-15 00:41:55.257268 - Found @FILE225.txt (text/plain) in CBT.V508.FILE225.PDS, moved to PDS/@FILE225
+2025-04-15 00:41:55.258089 - Found OFFLOAD.bin (application/octet-stream) in CBT.V508.FILE225.PDS, moved to PDS/OFFLOAD
